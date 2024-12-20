@@ -1,1 +1,1 @@
-# Timer
+# Digital clock
